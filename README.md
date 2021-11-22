@@ -1,4 +1,4 @@
-<h2 align="center"> Olá! Meu nome é Caio Correia. Seja bem-vindo! </h1>
+<h2 align="center"> Hi everybody! My name's Caio, I'm a software engeneery student. One of my main goals right now is to be hired as Jr Developer</h1>
 
 <div align="center">
   <a href="https://github.com/ccaioccesar82">
